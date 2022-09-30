@@ -52,7 +52,8 @@
 // -----------------------
 // callback queue parameters
 #define NUM_PRIORITIES    3
-#define TASK_QUEUE_SIZE   17
+#define TASK_QUEUE_SIZE   16
+#define N_TASK_QUEUES 2 // NUM_PRIORITIES-1
 // -----------------------
 
 // -----------------------
